@@ -7,10 +7,10 @@
   "telefono":"223",
     }
   ],
-  "reciclado": {
+  "reciclado": [{
     "plastico":"1",
     "papel":"2",
     "aluminio":"36616",
     "carton":"223",
-  }
+  }]
 }
